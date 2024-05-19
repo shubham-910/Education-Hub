@@ -1,9 +1,3 @@
-# EduHub
-
-- _Deployed Frontend URL_: <https://eduhub-react-frontend.vercel.app/>
-- _Deployed Backend URL_: <https://eduhub-node-backend.onrender.com>
-- _Backend_: <https://testbackend-sy5g.onrender.com/> (Test Feature Only)
-- _Backend_: <https://webbackend-3087.onrender.com/> (Course Feature Only)
 
 ## Built With
 
@@ -280,6 +274,3 @@ Users can decide to remove their blogs by simply clicking on the delete button.
    When students login the first page they land is to Dashboard. The dashboard has course listing.
    Every course has enrolling option. After you click on the enroll now the students gets enrolled in that course and then rest of the flow is carried out.
 
-## License
-
-EduHub is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
